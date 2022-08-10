@@ -9,7 +9,7 @@
 
 body {
     background-color: rgb(35, 35, 50);
-    background: url("/img/background.png");
+    background: url("img/background.png");
 }
 
 #navbar {
