@@ -9,7 +9,8 @@
 
 body {
     background-color: rgb(35, 35, 50);
-    background: url("/background2.png");
+    background: url("../background2.png");
+    background-size: 100%;
 }
 
 #navbar {
