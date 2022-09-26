@@ -1,0 +1,102 @@
+* {
+    font-family: sans-serif;
+    margin: 0;
+}
+
+body {
+    background: url(../img/fondo.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+}
+
+header .titulo {
+    display: flex;
+    text-align: center;
+    background-color: rgb(42, 42, 57);
+    align-items: center;
+    text-decoration: none;
+    text-align: center;
+}
+
+header .titulo img {
+    height: 75px;
+    background-color: rgb(42, 42, 57);
+}
+
+header .titulo h1 {
+    color: white;
+    background-color: rgb(42, 42, 57);
+}
+
+header .encabezado{
+    background-color: rgb(42, 42, 57);
+    text-align: center;
+    padding: 10px 0px 15px 0px;
+    
+}
+
+header .encabezado a{
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+    text-align: center;
+    margin: 5px;
+}
+
+header .linea1 {
+    background-color: blueviolet;
+    padding: 2px;
+}
+
+section .login {
+    text-align: center;
+    background-color: rgb(42, 42, 57);
+    padding: 40px 0px 40px 0px;
+    margin: 50px 70px 50px 70px;
+    border-radius: 15px;
+    border: 4px solid blueviolet;
+}
+
+section .titulo {
+    color: white;
+    margin: 0px 0px 15px 0px;
+}
+
+section input {
+    color: black;
+    padding: 2px;
+    margin: 2px;
+}
+
+section button {
+    margin: 15px 0px 0px 0px;
+}
+
+footer .linea2 {
+    background-color: blueviolet;
+    padding: 2px;
+}
+
+footer {
+    background-color: rgb(42, 42, 57);
+    padding: 0px 0px 175px 0px;
+}
+
+footer .media {
+    text-align: center;
+}
+
+footer .media h1 {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    padding: 20px 0px 30px 0px;
+}
+
+footer .media a {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    padding: 0px 5px 0px 5px;
+}
