@@ -7,6 +7,7 @@ body {
     background: url(../img/fondo.webp);
     background-repeat: no-repeat;
     background-position: center;* {
+    background-size: full;
     font-family: sans-serif;
     margin: 0;
 }
